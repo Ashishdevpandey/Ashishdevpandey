@@ -29,6 +29,3 @@ I ❤️ **AI & Machine Learning!**
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-## Stats
-
-![Ashishdevpandey's github stats](https://github-readme-stats.vercel.app/api?username=Ashishdevpandey&show_icons=true&theme=dracula)
