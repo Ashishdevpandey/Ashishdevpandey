@@ -12,7 +12,8 @@ I ❤️ **AI & Machine Learning!**
 
 ## Currently working on
 
-<!-- Add your projects here -->
+[![Voice Assistant](https://svg.bookmark.style/api?url=https://github.com/Ashishdevpandey/Voice-Assistant&mode=light&style=horizontal)](https://github.com/Ashishdevpandey/Voice-Assistant)
+[![PhantomMask](https://svg.bookmark.style/api?url=https://github.com/Ashishdevpandey/PhantomMask&mode=light&style=horizontal)](https://github.com/Ashishdevpandey/PhantomMask)
 
 ## My Tech Stack
 
