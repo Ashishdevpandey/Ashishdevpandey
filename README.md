@@ -1,20 +1,20 @@
-𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝐀𝐬𝐡𝐢𝐬𝐡 𝐊𝐮𝐦𝐚𝐫
+# Hello, I'm Ashish Kumar
 
 [![](https://img.shields.io/badge/-@Ashishdevpandey-%23181717?style=flat-square&logo=github)](https://github.com/Ashishdevpandey)
 
-𝑰 ❤️ �� & ������𝒏� �𝒆�����!
+I ❤️ **AI & Machine Learning!**
 
-:computer: 𝑨𝒏 ��/�𝑳 �𝒆𝒗𝒆����� �𝒂𝒔��𝒏𝒂�𝒕� 𝒂���� �𝒖�𝒊��𝒊�𝒏𝒈 ���𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒕 ���𝒕�𝒆�𝒔.
+:computer: **An AI/ML Developer passionate about building intelligent systems.**
 
-🤖 ������� ���𝙖���𝙞�� | 🧠 ���� �𝙚𝙖𝙧𝙣��𝙜 | 🐍 ������ �����𝙚𝙧 | 📊 ����𝙖 ����𝙣��
+🤖 **Machine Learning** | 🧠 **Deep Learning** | 🐍 **Python Master** | 📊 **Data Science**
 
-💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆 ���� ��.
+💡 *Passionate about bringing ideas to life with AI.*
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## Currently working on
 
 <!-- Add your projects here -->
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## My Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)
@@ -29,6 +29,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-## 𝗦𝘁𝗮𝘁𝘀
+## Stats
 
 ![Ashishdevpandey's github stats](https://github-readme-stats.vercel.app/api?username=Ashishdevpandey&show_icons=true&theme=dracula)
