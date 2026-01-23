@@ -6,7 +6,7 @@ I ❤️ **AI & Machine Learning!**
 
 :computer: **An AI/ML Developer passionate about building intelligent systems.**
 
-🤖 **Machine Learning** | 🧠 **Deep Learning** | 🐍 **Python Master** | 📊 **Data Science**
+🤖 **Machine Learning** | 🧠 **Deep Learning** | 🐍 **Python ** | 📊 **Data Science**
 
 💡 *Passionate about bringing ideas to life with AI.*
 
