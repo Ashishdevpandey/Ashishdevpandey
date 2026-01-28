@@ -20,10 +20,9 @@
 
 ## 💻 Tech Stack
 
-**Languages & Frameworks:**  
+**Languages:**  
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
+
 
 **AI/ML & Data Science:**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)
