@@ -41,28 +41,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| [Voice Assistant](https://github.com/Ashishdevpandey/Voice-Assistant) | AI-powered voice assistant with NLP capabilities | Python, TensorFlow, Speech Recognition | ⭐ |
-| [PhantomMask](https://github.com/Ashishdevpandey/PhantomMask) | Deep Learning model for face mask detection | PyTorch, OpenCV, Flask | ⭐ |
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashishdevpandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishdevpandey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishdevpandey&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
----
 
 ## 📬 Let's Connect
 
