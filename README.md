@@ -1,43 +1,31 @@
-# Hi there 👋, I'm Ashish Pandey
+# Hello, I'm Ashish Kumar
 
-### Software Engineer @ [Company Name] | Full-Stack Developer | Open Source Enthusiast
+[![](https://img.shields.io/badge/-@Ashishdevpandey-%23181717?style=flat-square&logo=github)](https://github.com/Ashishdevpandey)
 
-💼 **Currently building production-grade applications at [Company]**  
-🚀 **Previously:** [Previous company/internship if any]  
-🎓 **CSE Graduate** from [College Name]
+I ❤️ **AI & Machine Learning!**
 
-<img src="https://raw.githubusercontent.com/Ashishdevpandey/Ashishdevpandey/main/assets/banner.png" alt="banner"/>
+:computer: **An AI/ML Developer passionate about building intelligent systems.**
 
-## 💻 What I Do
-- Building scalable web applications in production
-- Contributing to open-source projects
-- Solving complex problems with clean, maintainable code
-- Mentoring juniors & sharing knowledge
+🤖 **Machine Learning** | 🧠 **Deep Learning** | 🐍 **Python** | 📊 **Data Science**
 
-## 🔥 Tech Stack (Production Experience)
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgresql,tailwind,redux,docker,aws&perline=8"/>
+💡 *Passionate about bringing ideas to life with AI.*
 
-## 🏆 Featured Projects
-| Project | Tech Stack | Live Demo | 
-|---------|-----------|-----------|
-| [Job-Portal](https://github.com/Ashishdevpandey/Job-Portal) | Next.js 14, MongoDB, Tailwind CSS | [🚀 Live](add-link) |
-| [Instagram Clone](https://github.com/Ashishdevpandey/instagram-clone) | React, Node.js, Socket.io, MongoDB | [🚀 Live](add-link) |
-| [Your Other Project](link) | Tech stack | [Live] |
+## Currently working on
 
-## 📊 GitHub Stats
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashishdevpandey&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishdevpandey&layout=compact&theme=dracula&hide_border=true)
+[![Voice Assistant](https://svg.bookmark.style/api?url=https://github.com/Ashishdevpandey/Voice-Assistant&mode=light&style=horizontal)](https://github.com/Ashishdevpandey/Voice-Assistant)
+[![PhantomMask](https://svg.bookmark.style/api?url=https://github.com/Ashishdevpandey/PhantomMask&mode=light&style=horizontal)](https://github.com/Ashishdevpandey/PhantomMask)
 
-## 🔥 Contribution Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashishdevpandey&theme=dracula&hide_border=true)
+## My Tech Stack
 
-## 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/ashishdevpandey)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square)](https://yourportfolio.com)
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)
+![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)
+![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=flat-square&logo=numpy&logoColor=ffffff)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff)
+![OpenCV](https://img.shields.io/badge/-OpenCV-%235C3EE8?style=flat-square&logo=opencv&logoColor=ffffff)
+![Jupyter](https://img.shields.io/badge/-Jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=ffffff)
 
-**Open to interesting opportunities & collaborations**  
-💬 Let's talk about tech, startups, or grab a coffee ☕
-
----
-⭐ Star my repos if they help you!
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
